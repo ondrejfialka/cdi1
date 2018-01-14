@@ -1,0 +1,5 @@
+.project
+cdi1-web/.settings/
+.settings/
+cdi1-business-module/.classpath
+cdi1-web/.classpath
