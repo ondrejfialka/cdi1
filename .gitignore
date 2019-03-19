@@ -3,3 +3,7 @@ cdi1-web/.settings/
 .settings/
 cdi1-business-module/.classpath
 cdi1-web/.classpath
+.idea/
+cdi1.iml
+cdi1-business-module/cdi1-business-module.iml
+cdi1-web/cdi1-web.iml
